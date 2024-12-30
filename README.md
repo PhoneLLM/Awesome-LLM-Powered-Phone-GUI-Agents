@@ -15,7 +15,7 @@
 
 ## 🌟 Introduction
 
-🔥 **Must-read papers for LLM-powered Phone GUI agents.**
+🔥 **Must-read papers for LLM-Powered Phone GUI Agents.**
 
 **We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
 
