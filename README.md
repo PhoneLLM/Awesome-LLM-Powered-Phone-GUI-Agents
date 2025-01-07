@@ -22,7 +22,7 @@
 
 ## Table of Content (ToC)
 
-- [LLM-Powered UI Agents in Phone Automation: Surveying Progress and Prospects](#llm-powered-ui-agents-in-phone-automation-surveying-progress-and-prospects)
+- [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](#llm-powered-ui-agents-in-phone-automation-surveying-progress-and-prospects)
   - [🔔 News](#-news)
   - [🌟 Introduction](#-introduction)
   - [Table of Content (ToC)](#table-of-content-toc)
