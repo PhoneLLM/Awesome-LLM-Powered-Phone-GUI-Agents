@@ -11,6 +11,7 @@
 
 ## 🔔 News
 
+- 💥 [2025/01/07] Our survey is released! See [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://www.preprints.org/manuscript/202501.0413/v1) for the paper!
 - ✨ [2024/12/29] We create this repository to maintain a paper list on LLM-Powered Phone GUI Agents. More papers are coming soon!
 
 ## 🌟 Introduction
