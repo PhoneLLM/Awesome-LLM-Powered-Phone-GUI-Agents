@@ -9,27 +9,53 @@
 [![Contributors](https://img.shields.io/github/contributors/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents)](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents/graphs/contributors)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## 🔔 News
+## 🚀 News
 
 - 💥 [2025/01/07] Our survey is released! See [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://www.preprints.org/manuscript/202501.0413/v1) for the paper!
 - ✨ [2024/12/29] We create this repository to maintain a paper list on LLM-Powered Phone GUI Agents. More papers are coming soon!
 
-## 🌟 Introduction
+## 📑 Citation
+If you find our survey useful for your research and applications, please cite using this BibTeX:
+```
+@article{liu2025llm,
+  title={Llm-powered gui agents in phone automation: Surveying progress and prospects},
+  author={Liu, William and Liu, Liang and Guo, Yaxuan and Xiao, Han and Lin, Weifeng and Chai, Yuxiang and Ren, Shuai and Liang, Xiaoyu and Li, Linghao and Wang, Wenhao and others},
+  year={2025},
+  publisher={Preprints}
+}
+```
+## 📖 Introduction
 
 🔥 **Must-read papers for LLM-Powered Phone GUI Agents.**
 
 **We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
 
-## Table of Content (ToC)
+## 🔖 General Overview
+A comprehensive taxonomy of LLM-powered phone GUI agents in phone automation. 
+Note that only a selection of representative works is included in this categorization.
+![overviews.png](figs/overviews.png)
+
+## 🪧 Milestones
+Milestones in the development of LLM-powered phone GUI agents. 
+This figure divides advancements into four primary parts: 
+**Prompt Engineering**, **Training-Based Methods**, **Datasets** and **Benchmarks**. 
+Prompt Engineering leverages pre-trained LLMs by strategically crafting input prompts, to perform specific tasks without modifying model parameters. 
+In contrast, Training-Based Methods, involve adapting LLMs via supervised fine-tuning or reinforcement learning on GUI-specific data, 
+thereby enhancing their ability to understand and interact with mobile UIs.
+![milestones.png](figs/milestones.png)
+
+## 📝 Table of Content (ToC)
 
 - [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](#llm-powered-ui-agents-in-phone-automation-surveying-progress-and-prospects)
-  - [🔔 News](#-news)
-  - [🌟 Introduction](#-introduction)
-  - [Table of Content (ToC)](#table-of-content-toc)
-  - [Papers](#papers)
-  - [Star History](#star-history)
+  - [🚀 News](#-news)
+  - [📖 Introduction](#-introduction)
+  - [🔖 General Overview](#-general-overview)
+  - [🪧 Milestones](#-milestones)
+  - [📝 Table of Content (ToC)](#-table-of-content-toc)
+  - [🔍 Paper List](#-paper-list)
+  - [🌟 Star History](#-star-history)
 
-## Methods
+## 🔍 Paper List
 
 | ID   | Date    | Method                                                       | Stars                                                        |
 | ---- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -90,6 +116,6 @@
 | 55   | 2024.08 | [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/abs/2408.00203) | /                                                            |
 | 56   | 2024.08 | [OpenWebAgent: An open toolkit to enable web agents on large language models](https://aclanthology.org/2024.acl-demos.8/) | ![Stars](https://img.shields.io/github/stars/THUDM/OpenWebAgent) |
 
-## Star History
+## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents&type=Date)](https://star-history.com/#PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents&Date)
