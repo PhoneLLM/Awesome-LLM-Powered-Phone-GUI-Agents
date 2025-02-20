@@ -33,6 +33,7 @@ If you find our survey useful for your research and applications, please cite us
 ## 🔖 General Overview
 A comprehensive taxonomy of LLM-powered phone GUI agents in phone automation. 
 Note that only a selection of representative works is included in this categorization.
+
 ![overviews.png](figs/overviews.png)
 
 ## 🪧 Milestones
@@ -42,6 +43,7 @@ This figure divides advancements into four primary parts:
 Prompt Engineering leverages pre-trained LLMs by strategically crafting input prompts, to perform specific tasks without modifying model parameters. 
 In contrast, Training-Based Methods, involve adapting LLMs via supervised fine-tuning or reinforcement learning on GUI-specific data, 
 thereby enhancing their ability to understand and interact with mobile UIs.
+
 ![milestones.png](figs/milestones.png)
 
 ## 📝 Table of Content (ToC)
