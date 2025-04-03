@@ -104,7 +104,9 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 | Date    | Method                                                                                                                                          | Project                                                  |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| 2025.04 | [Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents](https://arxiv.org/abs/2504.00906)                           | [Code](https://github.com/simular-ai/Agent-S)            |
 | 2025.03 | [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760 )                         | [Code](https://github.com/camel-ai/owl )                 |
+| 2025.03 | [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/abs/2503.09572)                                           | N/A                                                      |
 | 2025.02 | [Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies](https://arxiv.org/abs/2502.02533 )                                   | N/A                                                      |
 | 2025.01 | [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733 )                                           | [Code](https://github.com/X-PLUG/MobileAgent )           |
 | 2024.07 | [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913 )                                         | N/A                                                      |
@@ -145,21 +147,22 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 ##### Multimodal Prompt
 
-| Date    | Method                                                                                                                                             | Project                                                |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| 2025.03 | [AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](https://arxiv.org/abs/2503.02268)                                                  | [Code](https://github.com/Westlake-AGI-Lab/AppAgentX)  |
-| 2025.01 | [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733)                                               | [Code](https://github.com/X-PLUG/MobileAgent)          |
-| 2024.08 | [AppAgent v2: Advanced Agent for Flexible Mobile Interactions](https://arxiv.org/abs/2408.11824)                                                   | N/A                                                    |
-| 2024.08 | [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/abs/2408.00203)                                                                     | N/A                                                    |
-| 2024.07 | [Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents](https://arxiv.org/abs/2407.09295)    | N/A                                                    |
-| 2024.07 | [Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps](https://arxiv.org/abs/2407.03037)                          | [Code](https://github.com/testtestA6/VisionDroid)      |
-| 2024.07 | [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913)                                             | N/A                                                    |
-| 2024.06 | [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719)                                                | [Code](https://showlab.github.io/GUI-Narrator/)        |
-| 2024.06 | [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)     | [Code](https://github.com/X-PLUG/MobileAgent)          |
-| 2024.01 | [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arxiv.org/abs/2401.16158)                                | [Code](https://github.com/X-PLUG/MobileAgent)          |
-| 2023.12 | [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)                                                                | [Code](https://github.com/TencentQQGYLab/AppAgent)     |
-| 2023.12 | [VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning](https://arxiv.org/abs/2312.11190v2)               | [Code](https://github.com/AkimotoAyako/VisionTasker)   |
-| 2023.11 | [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/abs/2311.07562)                          | [Code](https://github.com/zzxslp/MM-Navigator)         |
+| Date    | Method                                                                                                                                          | Project                                               |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| 2025.03 | [Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up](https://arxiv.org/abs/2503.24180)                                           | N/A                                                   |
+| 2025.03 | [AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](https://arxiv.org/abs/2503.02268)                                               | [Code](https://github.com/Westlake-AGI-Lab/AppAgentX) |
+| 2025.01 | [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733)                                            | [Code](https://github.com/X-PLUG/MobileAgent)         |
+| 2024.08 | [AppAgent v2: Advanced Agent for Flexible Mobile Interactions](https://arxiv.org/abs/2408.11824)                                                | N/A                                                   |
+| 2024.08 | [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/abs/2408.00203)                                                                  | N/A                                                   |
+| 2024.07 | [Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents](https://arxiv.org/abs/2407.09295) | N/A                                                   |
+| 2024.07 | [Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps](https://arxiv.org/abs/2407.03037)                       | [Code](https://github.com/testtestA6/VisionDroid)     |
+| 2024.07 | [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913)                                          | N/A                                                   |
+| 2024.06 | [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719)                                             | [Code](https://showlab.github.io/GUI-Narrator/)       |
+| 2024.06 | [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)  | [Code](https://github.com/X-PLUG/MobileAgent)         |
+| 2024.01 | [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arxiv.org/abs/2401.16158)                             | [Code](https://github.com/X-PLUG/MobileAgent)         |
+| 2023.12 | [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)                                                             | [Code](https://github.com/TencentQQGYLab/AppAgent)    |
+| 2023.12 | [VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning](https://arxiv.org/abs/2312.11190v2)            | [Code](https://github.com/AkimotoAyako/VisionTasker)  |
+| 2023.11 | [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/abs/2311.07562)                       | [Code](https://github.com/zzxslp/MM-Navigator)        |
 
 
 #### Training-Based Methods
@@ -171,6 +174,7 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2025.03 | [SpiritSight Agent: Advanced GUI Agent with One Look](https://arxiv.org/abs/2503.03196)                                           | [Model](https://huggingface.co/SenseLLM/SpiritSight-Agent-8B) |
 | 2025.03 | [ATLAS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)                                               | N/A                                                           |
 | 2025.03 | [Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks](https://arxiv.org/abs/2503.00401) | [Code](https://github.com/ZrW00/GUIPivot)                     |
+| 2025.02 | [OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](https://arxiv.org/abs/2503.16465)                                   | [Code](https://github.com/Wuzheng02/OS-Kairos)                |
 | 2025.01 | [GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration](https://arxiv.org/abs/2501.13896)          | [Code](https://gui-bee.github.io/)                            |
 | 2025.01 | [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)                              | [Code](https://github.com/bytedance/UI-TARS)                  |
 | 2024.12 | [Aria-UI: Visual Grounding for GUI Instructions](https://arxiv.org/abs/2412.16256)                                                | [Code](https://github.com/AriaUI/Aria-UI)                     |
@@ -212,6 +216,9 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 | Date    | Method                                                                                                                                                     | Project                                                            |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 2025.03 | [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620)                                             | [Code](https://github.com/lll6gg/UI-R1)                            |
+| 2025.03 | [STEVE: A Step Verification Pipeline for Computer-use Agent Training](https://arxiv.org/abs/2503.12532)                                                    | [Code](https://github.com/FanbinLu/STEVE-R1)                       |
+| 2025.03 | [Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study](https://arxiv.org/abs/2503.16788)                                              | [Code](https://github.com/LlamaTouch/VLM-Reasoning-Traces)         |
 | 2025.03 | [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://arxiv.org/abs/2503.07365)                              | [Code](https://github.com/ModalMinds/MM-EUREKA)                    |
 | 2025.03 | [Agent models: Internalizing Chain-of-Action Generation into Reasoning models](https://arxiv.org/abs/2503.06580)                                           | [Code](https://github.com/ADaM-BJTU/AutoCoA)                       |
 | 2025.02 | [Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems](https://arxiv.org/abs/2502.19328) | [Code](https://github.com/THU-KEG/Agentic-Reward-Modeling)         |
