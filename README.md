@@ -10,6 +10,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## 🚀 News
+- 🥳 [2025/04/29] Our survey has been updated for v2! See [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838) for the paper! Welcome to follow our work.
 - 🤩 [2025/03/13] We have updated the [Paper List](#-paper-list) again! We will update once a week from now on. We welcome your continued interest in our work!
 - 🎉 [2025/02/21] We have updated the [Paper List](#-paper-list)! The new version of our survey will be released later.
 - 💥 [2025/01/07] Our survey is released! See [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://www.preprints.org/manuscript/202501.0413/v1) for the paper!
@@ -18,11 +19,14 @@
 ## 📑 Citation
 If you find our survey useful for your research and applications, please cite using this BibTeX:
 ```
-@article{liu2025llm,
-  title={Llm-powered gui agents in phone automation: Surveying progress and prospects},
-  author={Liu, William and Liu, Liang and Guo, Yaxuan and Xiao, Han and Lin, Weifeng and Chai, Yuxiang and Ren, Shuai and Liang, Xiaoyu and Li, Linghao and Wang, Wenhao and others},
-  year={2025},
-  publisher={Preprints}
+@misc{liu2025llmpoweredguiagentsphone,
+      title={LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects}, 
+      author={Guangyi Liu and Pengxiang Zhao and Liang Liu and Yaxuan Guo and Han Xiao and Weifeng Lin and Yuxiang Chai and Yue Han and Shuai Ren and Hao Wang and Xiaoyu Liang and Wenhao Wang and Tianze Wu and Linghao Li and Hao Wang and Guanjing Xiong and Yong Liu and Hongsheng Li},
+      year={2025},
+      eprint={2504.19838},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2504.19838}, 
 }
 ```
 ## 📖 Introduction
