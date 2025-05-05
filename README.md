@@ -228,6 +228,7 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 | Date    | Method                                                                                                                                                     | Project                                                            |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 2025.04 | [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/abs/2504.10458)                                              | [Code](https://github.com/ritzz-ai/GUI-R1)                         |
 | 2025.03 | [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620)                                             | [Code](https://github.com/lll6gg/UI-R1)                            |
 | 2025.03 | [STEVE: A Step Verification Pipeline for Computer-use Agent Training](https://arxiv.org/abs/2503.12532)                                                    | [Code](https://github.com/FanbinLu/STEVE-R1)                       |
 | 2025.03 | [Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study](https://arxiv.org/abs/2503.16788)                                              | [Code](https://github.com/LlamaTouch/VLM-Reasoning-Traces)         |
