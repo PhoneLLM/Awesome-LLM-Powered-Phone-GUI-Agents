@@ -55,6 +55,7 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 - [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](#llm-powered-gui-agents-in-phone-automation-surveying-progress-and-prospects)
   - [🚀 News](#-news)
+  - [📑 Citation](#-citation)
   - [📖 Introduction](#-introduction)
   - [🔖 General Overview](#-general-overview)
   - [🪧 Milestones](#-milestones)
@@ -108,6 +109,8 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 | Date    | Method                                                                                                                                          | Project                                                  |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| 2025.04 | [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805)                                             | [Code](https://lgy0404.github.io/LearnAct)                         |
+| 2025.03 | [CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning](https://arxiv.org/abs/2503.03743) | [Code](https://github.com/Yuqi-Zhou/CHOP)                   |
 | 2025.04 | [Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents](https://arxiv.org/abs/2504.00906)                           | [Code](https://github.com/simular-ai/Agent-S)            |
 | 2025.03 | [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760 )                         | [Code](https://github.com/camel-ai/owl )                 |
 | 2025.03 | [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/abs/2503.09572)                                           | N/A                                                      |
@@ -128,7 +131,6 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 | Date    | Method                                                                                                                          | Project                                                     |
 |---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| 2025.03 | [CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning](https://arxiv.org/abs/2503.03743) | [Code](https://github.com/Yuqi-Zhou/CHOP)                   |
 | 2024.12 | [Ponder & Press: Advancing Visual GUI Agent towards General Computer Control](https://arxiv.org/abs/2412.01268 )                | [Code](https://invinciblewyq.github.io/ponder-press-page/)  |
 | 2024.10 | [ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents](https://arxiv.org/abs/2410.11872)                         | [Code](https://github.com/Samsung/ClickAgent)               |
 | 2024.10 | [Lightweight Neural App Control](https://arxiv.org/abs/2410.17883)                                                              | N/A                                                         |
@@ -155,6 +157,7 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 2025.03 | [Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up](https://arxiv.org/abs/2503.24180)                                           | N/A                                                   |
 | 2025.03 | [AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](https://arxiv.org/abs/2503.02268)                                               | [Code](https://github.com/Westlake-AGI-Lab/AppAgentX) |
+| 2025.02 | [Mobile-Agent-V: Learning Mobile Device Operation Through Video-Guided Multi-Agent Collaboration](https://arxiv.org/abs/2502.17110)             | [Code](https://github.com/X-PLUG/MobileAgent)         |
 | 2025.01 | [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733)                                            | [Code](https://github.com/X-PLUG/MobileAgent)         |
 | 2024.08 | [AppAgent v2: Advanced Agent for Flexible Mobile Interactions](https://arxiv.org/abs/2408.11824)                                                | N/A                                                   |
 | 2024.08 | [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/abs/2408.00203)                                                                  | N/A                                                   |
@@ -163,6 +166,8 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2024.07 | [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913)                                          | N/A                                                   |
 | 2024.06 | [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719)                                             | [Code](https://showlab.github.io/GUI-Narrator/)       |
 | 2024.06 | [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)  | [Code](https://github.com/X-PLUG/MobileAgent)         |
+| 2024.04 | [ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback](https://arxiv.org/abs/2504.02357)                             | N/A                                                   |
+| 2024.04 | [VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps](https://arxiv.org/abs/2504.11675) | N/A                                                   |
 | 2024.01 | [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arxiv.org/abs/2401.16158)                             | [Code](https://github.com/X-PLUG/MobileAgent)         |
 | 2023.12 | [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)                                                             | [Code](https://github.com/TencentQQGYLab/AppAgent)    |
 | 2023.12 | [VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning](https://arxiv.org/abs/2312.11190v2)            | [Code](https://github.com/AkimotoAyako/VisionTasker)  |
@@ -174,6 +179,7 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 | Date    | Method                                                                                                                            | Project                                                       |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| 2025.04 | [ViMo: A Generative Visual GUI World Model for App Agent](https://arxiv.org/abs/2504.13936)                                       | [Code](https://ai-agents-2030.github.io/ViMo/)                |
 | 2025.03 | [MP-GUI: Modality Perception with MLLMs for GUI Understanding](https://arxiv.org/abs/2503.14021)                                  | [Code](https://github.com/BigTaige/MP-GUI)                    |
 | 2025.03 | [SpiritSight Agent: Advanced GUI Agent with One Look](https://arxiv.org/abs/2503.03196)                                           | [Model](https://huggingface.co/SenseLLM/SpiritSight-Agent-8B) |
 | 2025.03 | [ATLAS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)                                               | N/A                                                           |
@@ -204,8 +210,10 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 | Date    | Method                                                                                                                      | Project                                             |
 |---------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| 2025.03 | [Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937)             | N/A                                                         |
 | 2025.03 | [MPO: Boosting LLM Agents with Meta Plan Optimization](https://arxiv.org/abs/2503.02682)                                    | [Code](https://github.com/WeiminXiong/MPO)          |
 | 2025.03 | [ATLaS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)                                         | N/A                                                 |
+| 2025.02 | [AppVLM: A Lightweight Vision Language Model for Online App Control](https://arxiv.org/abs/2502.06395)                      | N/A                                                 |
 | 2025.01 | [Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](https://arxiv.org/abs/2501.11425)          | [Code](https://github.com/bytedance/Agent-R)        |
 | 2025.01 | [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04575)    | [Code](https://github.com/Reallm-Labs/InfiGUIAgent) |
 | 2024.10 | [TinyClick: Single-Turn Agent for Empowering GUI Automation](https://arxiv.org/abs/2410.11871)                              | [Code](https://github.com/SamsungLabs/TinyClick)    |
@@ -227,6 +235,9 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2025.03 | [Agent models: Internalizing Chain-of-Action Generation into Reasoning models](https://arxiv.org/abs/2503.06580)                                           | [Code](https://github.com/ADaM-BJTU/AutoCoA)                       |
 | 2025.02 | [Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems](https://arxiv.org/abs/2502.19328) | [Code](https://github.com/THU-KEG/Agentic-Reward-Modeling)         |
 | 2025.02 | [ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation](https://arxiv.org/abs/2502.02955)                                                     | N/A                                                                |
+| 2025.02 | [VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model](https://arxiv.org/abs/2502.18906)                                  | [Code](https://github.com/microsoft/GUI-Agent-RL)                  |
+| 2025.02 | [Digi-Q: Learning Q-Value Functions for Training Device-Control Agents](https://arxiv.org/abs/2502.15760)                                                  | [Code](https://github.com/DigiRL-agent/digiq)                      |
+| 2025.02 | [VSC-RL: Advancing Autonomous Vision-Language Agents with Variational Subgoal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2502.07949)        | [Code](https://ai-agents-2030.github.io/VSC-RL)                    |
 | 2025.02 | [AgentRefine: Enhancing Agent Generalization through Refinement Tuning](https://arxiv.org/abs/2501.01702)                                                  | N/A                                                                |
 | 2024.11 | [Grounded Language Agent for Product Search via Intelligent Web Interactions](https://arxiv.org/abs/2404.10887)                                            | [Code](https://github.com/MultifacetedNLP/Web-Agents-Unsupervised) |
 | 2024.11 | [AutoGLM: Autonomous Foundation Agents for GUIs](https://arxiv.org/abs/2411.00820)                                                                         | [Code](https://xiao9905.github.io/AutoGLM/)                        |
@@ -269,6 +280,10 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 | Date    | Method                                                                                                                                                                               | Project                                                         |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| 2025.04 | [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805)                                                                       | [Code](https://lgy0404.github.io/LearnAct)                      |
+| 2025.03 | [FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data](https://arxiv.org/abs/2503.05143)                                                                  | [Code](https://github.com/wwh0411/FedMABench)                   |
+| 2025.03 | [AutoEval: A Practical Framework for Autonomous Evaluation of Mobile Agents](https://arxiv.org/abs/2503.02403)                                                                        | N/A                                                             |
+| 2025.02 | [AEIA-MN: Evaluating the Robustness of Multimodal LLM-Powered Mobile Agents Against Active Environmental Injection Attacks](https://arxiv.org/abs/2502.13053)                        | N/A                                                             |
 | 2025.02 | [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](https://arxiv.org/abs/2410.15164)                                                                             | [Code](https://github.com/ai-agents-2030/SPA-Bench)             |
 | 2025.01 | [A3: Android Agent Arena for Mobile GUI Agents](https://arxiv.org/abs/2501.01149)                                                                                                    | [Code](https://yuxiangchai.github.io/Android-Agent-Arena/)      |
 | 2024.11 | [AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents](https://arxiv.org/abs/2410.24024)                                                                    | [Code](https://github.com/THUDM/Android-Lab)                    |
