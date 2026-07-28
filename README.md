@@ -9,6 +9,10 @@
 [![Contributors](https://img.shields.io/github/contributors/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents)](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents/graphs/contributors)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+## Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
 ## 🚀 News
 
 - 🏆 [2025/12/02] Our survey has been accepted to TMLR 2025! See the latest version: [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838).
@@ -17,6 +21,10 @@
 - 🎉 [2025/02/21] We have updated the [Paper List](#-paper-list)! The new version of our survey will be released later.
 - 💥 [2025/01/07] Our survey is released!
 - ✨ [2024/12/29] We create this repository to maintain a paper list on LLM-Powered Phone GUI Agents. More papers are coming soon!
+
+## Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
 
 ## 📑 Citation
 
@@ -31,11 +39,19 @@ If you find our survey useful for your research and applications, please cite us
 }
 ```
 
+## Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
 ## 📖 Introduction
 
 🔥 **Must-read papers for LLM-Powered Phone GUI Agents.**
 
 **We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
+
+## Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
 
 ## 🔖 General Overview
 
@@ -43,6 +59,10 @@ A comprehensive taxonomy of LLM-powered phone GUI agents in phone automation.
 Note that only a selection of representative works is included in this categorization.
 
 ![overviews.png](figs/overviews.png)
+
+## Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
 
 ## 🪧 Milestones
 
@@ -54,6 +74,10 @@ In contrast, Training-Based Methods, involve adapting LLMs via supervised fine-t
 thereby enhancing their ability to understand and interact with mobile UIs.
 
 ![milestones.png](figs/milestones.png)
+
+## Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
 
 ## 📝 Table of Content (ToC)
 
@@ -82,11 +106,23 @@ thereby enhancing their ability to understand and interact with mobile UIs.
       - [Benchmarks](#benchmarks)
   - [🌟 Star History](#-star-history)
 
+## Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
 ## 🔍 Paper List
 
-### Frameworks and Components of Phone GUI Agents
+### Open Source Projects
 
-#### Single-Agent Frameworks
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Frameworks and Components of Phone GUI Agents
+
+#### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Single-Agent Frameworks
 
 | Date    | Method                                                                                                                                        | Project                                                    |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -111,7 +147,11 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2023.04 | [DroidBot-GPT: GPT-powered UI Automation for Android](https://arxiv.org/abs/2304.07061)                                                          | [Code](https://github.com/MobileLLM/AutoDroid)                |
 | 2023.04 | [Enabling Conversational Interaction with Mobile UI using Large Language Models](https://dl.acm.org/doi/full/10.1145/3544548.3580895)            | N/A                                                        |
 
-#### Multi-Agent Frameworks
+#### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Multi-Agent Frameworks
 
 | Date    | Method                                                                                                                                      | Project                                              |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -133,7 +173,11 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2024.02 | [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)                                       | [Code](https://github.com/OS-Copilot/OS-Copilot)        |
 | 2023.10 | [SteP: Stacked LLM Policies for Web Actions](https://arxiv.org/abs/2310.03720)                                                                 | [Code](https://github.com/asappresearch/webagents-step) |
 
-#### Plan-Then-Act Frameworks
+#### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Plan-Then-Act Frameworks
 
 | Date    | Method                                                                                                                | Project                                                 |
 | ------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -143,11 +187,23 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2024.10 | [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243) | [Code](https://github.com/OSU-NLP-Group/UGround)           |
 | 2024.01 | [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614)                                 | [Code](https://github.com/OSU-NLP-Group/SeeAct)            |
 
-### LLMs for Phone Automation
+### Open Source Projects
 
-#### Prompt Engineering
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
 
-##### Text-Based Prompt
+## LLMs for Phone Automation
+
+#### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Prompt Engineering
+
+##### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Text-Based Prompt
 
 | Date    | Method                                                                                                                                 | Project                                        |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -158,7 +214,11 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2023.04 | [DroidBot-GPT: GPT-powered UI Automation for Android](https://arxiv.org/abs/2304.07061)                                                   | [Code](https://github.com/MobileLLM/AutoDroid)    |
 | 2023.04 | [Enabling Conversational Interaction with Mobile UI using Large Language Models](https://dl.acm.org/doi/full/10.1145/3544548.3580895)     | N/A                                            |
 
-##### Multimodal Prompt
+##### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Multimodal Prompt
 
 | Date    | Method                                                                                                                                                      | Project                                            |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -180,9 +240,17 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2023.12 | [VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning](https://arxiv.org/abs/2312.11190v2)                           | [Code](https://github.com/AkimotoAyako/VisionTasker)  |
 | 2023.11 | [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/abs/2311.07562)                                      | [Code](https://github.com/zzxslp/MM-Navigator)        |
 
-#### Training-Based Methods
+#### Open Source Projects
 
-##### Task-Specific LLM-based Agents
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Training-Based Methods
+
+##### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Task-Specific LLM-based Agents
 
 | Date    | Method                                                                                                                         | Project                                                    |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
@@ -213,7 +281,11 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2023.09 | [You Only Look at Screens: Multimodal Chain-of-Action Agents](https://arxiv.org/abs/2309.11436)                                   | [Code](https://github.com/cooelf/Auto-GUI)                    |
 | 2023.06 | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070)                                              | [Code](https://github.com/OSU-NLP-Group/Mind2Web)             |
 
-##### Supervised Fine-Tuning Methods for Phone GUI Agents
+##### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Supervised Fine-Tuning Methods for Phone GUI Agents
 
 | Date    | Method                                                                                                                   | Project                                          |
 | ------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
@@ -231,7 +303,11 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2024.01 | [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)                       | [Code](https://github.com/njucckevin/SeeClick)      |
 | 2024.01 | [MobileAgent: enhancing mobile control via human-machine interaction and SOP integration](https://arxiv.org/abs/2401.04124) | [Code](https://github.com/alipay/mobile-agent)      |
 
-##### Reinforcement Learning Methods for Phone GUI Agents
+##### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Reinforcement Learning Methods for Phone GUI Agents
 
 | Date    | Method                                                                                                                                                  | Project                                                         |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -256,9 +332,17 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2024.03 | [Trial and error Exploration-based trajectory optimization for LLM agents](https://arxiv.org/abs/2403.02502)                                               | [Code](https://github.com/Yifan-Song793/ETO)                       |
 | 2024.02 | [ScreenAgent: A Vision Language Model-driven Computer Control Agent](https://arxiv.org/abs/2402.07945)                                                     | [Code](https://github.com/niuzaisheng/ScreenAgent)                 |
 
-### Datasets and Benchmarks
+### Open Source Projects
 
-#### Datasets
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Datasets and Benchmarks
+
+#### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Datasets
 
 | Date    | Method                                                                                                                                               | Project                                                                                 |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -283,7 +367,11 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2020.05 | [Mapping Natural Language Instructions to Mobile UI Action Sequences](https://arxiv.org/abs/2005.03776)                                                 | [Code](https://github.com/google-research/google-research/tree/master/seq2ac)              |
 | 2017.10 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://dl.acm.org/doi/abs/10.1145/3126594.3126651)                           | [Dataset](https://dl.acm.org/doi/abs/10.1145/3126594.3126651)                              |
 
-#### Benchmarks
+#### Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
+
+## Benchmarks
 
 | Date    | Method                                                                                                                                                                            | Project                                                      |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -308,6 +396,10 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2024.02 | [AndroidArena: Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://dl.acm.org/doi/abs/10.1145/3637528.3671650)                   | [Code](https://github.com/AndroidArenaAgent/AndroidArena)       |
 | 2023.09 | [AutoDroid: LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272)                                                                                                | [Code](https://github.com/MobileLLM/AutoDroid)                  |
 | 2023.05 | [Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144)                                                                     | [Code](https://github.com/X-LANCE/Mobile-Env)                   |
+
+## Open Source Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Desktop GUI automation via multimodal AI vision. WeChat automation on macOS using screenshots + LLM + AppleScript. Features memory system and digital twin.
 
 ## 🌟 Star History
 
