@@ -80,7 +80,6 @@ thereby enhancing their ability to understand and interact with mobile UIs.
     - [Datasets and Benchmarks](#datasets-and-benchmarks)
       - [Datasets](#datasets)
       - [Benchmarks](#benchmarks)
-  - [🌟 Star History](#-star-history)
 
 ## 🔍 Paper List
 
@@ -308,7 +307,3 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2024.02 | [AndroidArena: Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://dl.acm.org/doi/abs/10.1145/3637528.3671650)                   | [Code](https://github.com/AndroidArenaAgent/AndroidArena)       |
 | 2023.09 | [AutoDroid: LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272)                                                                                                | [Code](https://github.com/MobileLLM/AutoDroid)                  |
 | 2023.05 | [Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144)                                                                     | [Code](https://github.com/X-LANCE/Mobile-Env)                   |
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents&type=Date)](https://star-history.com/#PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents&Date)
