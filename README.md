@@ -57,6 +57,7 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 
 ## 📝 Table of Content (ToC)
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source GUI software factory and agent harness that handles parallel Git worktrees for you, complete with programmatic verifications and review loops
 - [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](#llm-powered-gui-agents-in-phone-automation-surveying-progress-and-prospects)
   - [🚀 News](#-news)
   - [📑 Citation](#-citation)
