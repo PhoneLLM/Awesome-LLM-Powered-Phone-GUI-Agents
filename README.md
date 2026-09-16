@@ -307,3 +307,5 @@ thereby enhancing their ability to understand and interact with mobile UIs.
 | 2024.02 | [AndroidArena: Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://dl.acm.org/doi/abs/10.1145/3637528.3671650)                   | [Code](https://github.com/AndroidArenaAgent/AndroidArena)       |
 | 2023.09 | [AutoDroid: LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272)                                                                                                | [Code](https://github.com/MobileLLM/AutoDroid)                  |
 | 2023.05 | [Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144)                                                                     | [Code](https://github.com/X-LANCE/Mobile-Env)                   |
+
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source GUI software factory and agent harness that handles parallel Git worktrees for you, complete with programmatic verifications and review loops
